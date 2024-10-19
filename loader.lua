@@ -132,7 +132,7 @@ function sendToDiscord(infectedResources)
             ["color"] = 16711680,
             ["title"] = "Backdoor Detected!",
             ["description"] = descriptions,
-            ["footer"] = {["text"] = "Developed By raider0101"}
+            ["footer"] = {["text"] = "Developed By Krupowski"}
         }
     }
 
