@@ -72,7 +72,7 @@ local function scanForBackdoors()
                     for _, backdoorString in ipairs(Shared.BackdoorStrings) do
                         if fileContent:find(backdoorString) then
                             table.insert(detectedResources, {resource = resourceName .. '/' .. filePath, stringFound = backdoorString})
-                            break -- Znaleziono backdoor, przerwij dalsze sprawdzanie
+                            break 
                         end
                     end
                 end
