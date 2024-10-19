@@ -1,6 +1,6 @@
 fx_version "adamant"
 
--- Eyes Anti Backdoor / Support
+-- Support
 -- https://discord.gg/6JEBNqE7zb
 
 game "gta5"
