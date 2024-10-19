@@ -13,4 +13,4 @@ Protect your FiveM server from common backdoors and cipher panels with this esse
 
 ## Discord Community
 Join our Discord community for support and updates:
-[![Discord]()](https://discord.gg/6JEBNqE7zb)
+https://discord.gg/6JEBNqE7zb
