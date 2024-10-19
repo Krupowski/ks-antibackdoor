@@ -125,14 +125,14 @@ local function handleBackdoorDetection()
     end
 end
 
--- Triggered when a resource starts
+
 AddEventHandler('onResourceStart', function(res)
     if GetCurrentResourceName() == res and Shared.Enable then
         handleBackdoorDetection()
     end
 end)
 
--- Initial scan on all resources
+
 for i = 0, GetNumResources() - 1 do
     local resourceName = GetResourceByFindIndex(i)
     scanScriptsForResource(resourceName)
