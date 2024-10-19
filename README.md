@@ -1,4 +1,4 @@
-# Fivem Anti-Backdoor & Anti-Cipher Panel
+# Anty-Backdoor & Anty-Cipher Panel Fivem
 Chroń swój serwer FiveM przed typowymi backdoorami i panelami szyfrującymi za pomocą tego niezbędnego narzędzia.
 
 ## Funkcje
