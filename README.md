@@ -1,16 +1,16 @@
-# FiveM Anti-Backdoor & Anti-Cipher Panel
-Protect your FiveM server from common backdoors and cipher panels with this essential tool.
+# Fivem Anti-Backdoor & Anti-Cipher Panel
+Chroń swój serwer FiveM przed typowymi backdoorami i panelami szyfrującymi za pomocą tego niezbędnego narzędzia.
 
-## Features
-- **Anti-Backdoor**: Detect and neutralize server-side script injections.
-- **Anti-Cipher Panel**: Identify and block common cipher panels.
-- **Continuous Monitoring**: Real-time defense against malicious activities.
+## Funkcje
+- **Anti-Backdoor**: Wykrywaj i neutralizuj infekcje skryptów po stronie server-side.
+- **Anti-Cipher Panel**: Identyfikuj i blokuj typowe panele szyfrujące.
+- **Ciągły monitoring**: Obrona w czasie rzeczywistym przed złośliwymi działaniami.
 
-## How to Install
-1. Download the latest release.
-2. Extract the files into your FiveM resources folder.
-3. Add `start ks-antibackdoor` to your `server.cfg` file.
+## Jak zainstalować
+1. Pobierz najnowszą wersję.
+2. Wypakuj pliki do folderu zasobów FiveM.
+3. Dodaj `start ks-antibackdoor` do pliku `server.cfg`.
 
-## Discord Community
-Join our Discord community for support and updates:
+## Społeczność Discord
+Dołącz do naszej społeczności Discord, aby uzyskać wsparcie i aktualizacje:
 https://discord.gg/6JEBNqE7zb
