@@ -61,7 +61,7 @@ end
 local Shared = {
     Enable = true,
     DiscordAnnounceDetection = true,
-    DiscordWebhook = "", -- webhook add
+    DiscordWebhook = "", -- dodaj webhook
     ConsolePrint = true,
     StopServer = true,
     BackdoorStrings = {
@@ -130,9 +130,9 @@ function sendToDiscord(infectedResources)
     local connect = {
         {
             ["color"] = 16711680,
-            ["title"] = "Backdoor Detected!",
+            ["title"] = "Wykryto Backdoora!",
             ["description"] = descriptions,
-            ["footer"] = {["text"] = "Developed By Krupowski"}
+            ["footer"] = {["text"] = "Developed By Krupowski Studio"}
         }
     }
 
